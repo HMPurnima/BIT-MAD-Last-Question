@@ -9,15 +9,7 @@ Real-Time Weather Updates: Get the current temperature, humidity, wind speed, an
 Search by City: Easily find weather information for any city using the new search option.
 GPS Location: Get local weather updates based on your current location.
 User-Friendly Interface: Enjoy a clean and simple design that makes navigating the app a breeze.
-Screenshots
 
-The home screen displays current weather conditions for your selected location.
-
-
-Use the search function to find weather information for different cities.
-
-
-Check detailed forecasts to plan your week effectively.
 
 Getting Started
 Prerequisites
